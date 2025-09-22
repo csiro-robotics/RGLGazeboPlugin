@@ -1,0 +1,4 @@
+ament_prepend_unique_value GZ_SIM_RESOURCE_PATH "$AMENT_CURRENT_PREFIX/share/@PROJECT_NAME@/test_world"
+ament_prepend_unique_value GZ_SIM_SYSTEM_PLUGIN_PATH "$AMENT_CURRENT_PREFIX/RGLServerPlugin/"
+ament_prepend_unique_value GZ_GUI_PLUGIN_PATH "$AMENT_CURRENT_PREFIX/RGLVisualize/"
+ament_prepend_unique_value RGL_PATTERNS_DIR "$AMENT_CURRENT_PREFIX/share/@PROJECT_NAME@/lidar_patterns"
