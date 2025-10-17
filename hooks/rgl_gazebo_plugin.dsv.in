@@ -1,0 +1,4 @@
+prepend-non-duplicate;GZ_SIM_RESOURCE_PATH;share/@PROJECT_NAME@/test_world
+prepend-non-duplicate;GZ_SIM_SYSTEM_PLUGIN_PATH;RGLServerPlugin/
+prepend-non-duplicate;GZ_GUI_PLUGIN_PATH;RGLVisualize/
+prepend-non-duplicate;RGL_PATTERNS_DIR;share/@PROJECT_NAME@/lidar_patterns
